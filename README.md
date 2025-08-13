@@ -26,14 +26,15 @@ G5: a(ab)^n b, n≥0.
 
 📂 Estructura de archivos
 /Proyecto
+|
 │── gramatica.py         # Versión en Python
-
+|
 │── gramatica.l          # Lexer en Flex
-
+|
 │── gramatica.y          # Parser en Bison
-
+|
 │── cadenas.txt          # Archivo de prueba con cadenas
-
+|
 │── README.md            # Este documento
 
 ▶ Ejecución en Python
