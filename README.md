@@ -25,16 +25,17 @@ G4: Solo "ab" o "abb".
 G5: a(ab)^n b, n≥0.
 
 📂 Estructura de archivos
-bash
-Copiar
-Editar
 /Proyecto
 │── gramatica.py         # Versión en Python
+
 │── gramatica.l          # Lexer en Flex
+
 │── gramatica.y          # Parser en Bison
+
 │── cadenas.txt          # Archivo de prueba con cadenas
-│── 01.pdf               # Presentación de referencia (gramáticas en págs. 31-35)
+
 │── README.md            # Este documento
+
 ▶ Ejecución en Python
 Guardar las cadenas de prueba en cadenas.txt (una por línea).
 
